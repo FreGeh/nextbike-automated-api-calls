@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment folder
+env/
+
+# Ignore any cached files or directories
+__pycache__/
+
+# Ignore login credentials (if applicable)
+loginprivate.txt

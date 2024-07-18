@@ -1,0 +1,4 @@
+[PHONENUMBER],[PIN]
+
+PHONENUMBER is in the format 4911111111 without + but with countrycode
+PIN is your 6 digit pin
